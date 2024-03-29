@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE ROOT PUBLIC "" ""[]>
+<Root>
+  <Wall posx="0" posy="0"></Wall>
+  <Floor posx="0" posy="2160" audienceEdge="0"></Floor>
+  <Display ResDivider="1" Borderless="True" Mouse="False"></Display>
+  <TUIO-Settings useTuio="False" listeningIP="0.0.0.0"></TUIO-Settings>
+</Root>
